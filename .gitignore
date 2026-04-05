@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/agent-memory/
+.claude/.setup-complete
+
+# Logs
+logs/
